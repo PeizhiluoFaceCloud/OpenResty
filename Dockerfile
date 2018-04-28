@@ -1,5 +1,5 @@
 FROM daocloud.io/ubuntu:14.04
-MAINTAINER geyijun<geyijun@xiongmaitech.com>
+MAINTAINER peizhiluo007<25159673@qq.com>
 
 #°²×°supervisor
 RUN apt-get update && apt-get install -y --no-install-recommends \
