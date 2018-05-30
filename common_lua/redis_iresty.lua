@@ -77,6 +77,7 @@ local commands = {
 --geyijun@2015-11-13
 --性能调优,不用的命令先删除，这样new函数的执行时间可以缩短
 local commands = {
+    "keys",
     "del",
 	"eval",
     "expire",
